@@ -14,9 +14,11 @@ header{
 	background-color: black;
 	clear: both;
 }
+header.p{
+	margin: 0;
+}
 div{
 	margin: 50px;
-	border: 1px dashed white;
 	position: relative;
 }
 p{
